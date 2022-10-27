@@ -1,3 +1,5 @@
+/*-------- main settings starts-------- */
+
 * {
     margin: 0;
     padding: 0;
@@ -13,6 +15,10 @@ body {
     font-family: roboto;
     box-sizing: border-box;
 }
+
+/*-------- main settings ends---------- */
+
+/*-------- header section starts------- */
 
 .header {
     display: flex;
@@ -30,6 +36,10 @@ body {
     color: #F8FAFC;
     text-decoration: none;
 }
+
+/*-------- header section ends--------- */
+
+/*-------- main section1 starts-------- */
 
 .main {
     padding: 94px 145px;
@@ -87,6 +97,12 @@ body {
     margin: 54px 106px 54px 27px;
 }
 
+/*-------- main section ends----------- */
+
+
+/*-------- section2 starts------------- */
+
+
 .hsecond {
     padding-top: 95px;
     padding-bottom: 82px;
@@ -126,6 +142,12 @@ body {
     padding: 14px 14px 71px 14px;
 }
 
+/*-------- section2 ends--------------- */
+
+
+/*-------- footer section starts------- */
+
+
 .footer {
     display: flex;
     justify-content: space-between;
@@ -144,3 +166,5 @@ body {
     line-height: 23px;
     color: #CBD5E1;
 }
+
+/*-------- footer section ends==------- */
