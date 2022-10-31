@@ -128,6 +128,10 @@ body {
     padding-top: 10px;
 }
 
+.article2 img {
+    width: 100%;
+}
+
 .date {
     font-size: 20px;
     line-height: 23px;
